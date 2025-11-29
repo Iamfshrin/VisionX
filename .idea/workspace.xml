@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bc84af1a-6df3-4e5c-ad1f-5211a620cebd" name="Changes" comment="requirements3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/leads.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Flask server.Dilafruz.executor": "Run",
+    "Flask server.Dilafruz.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/iamfs/PycharmProjects/Dilafruz",
@@ -88,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764326417291</updated>
-      <workItem from="1764326418897" duration="12458000" />
+      <workItem from="1764326418897" duration="13727000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -170,7 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764413638141</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="requirements3">
+      <option name="closed" value="true" />
+      <created>1764415649248</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764415649248</updated>
+    </task>
+    <task id="LOCAL-00012" summary="requirements3">
+      <option name="closed" value="true" />
+      <created>1764415712727</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764415712727</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +211,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="requirements3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Dilafruz$Dilafruz.coverage" NAME="Dilafruz Coverage Results" MODIFIED="1764415180996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Dilafruz$Dilafruz.coverage" NAME="Dilafruz Coverage Results" MODIFIED="1764415507732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

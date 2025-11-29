@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc84af1a-6df3-4e5c-ad1f-5211a620cebd" name="Changes" comment="requirements2">
+    <list default="true" id="bc84af1a-6df3-4e5c-ad1f-5211a620cebd" name="Changes" comment="requirements3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Flask server.Dilafruz.executor": "Run",
+    "Flask server.Dilafruz.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/iamfs/PycharmProjects/Dilafruz",
@@ -126,7 +126,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764364432705</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="requirements3">
+      <option name="closed" value="true" />
+      <created>1764412101188</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764412101188</updated>
+    </task>
+    <task id="LOCAL-00007" summary="requirements3">
+      <option name="closed" value="true" />
+      <created>1764412196208</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764412196208</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,9 +163,10 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="requirements" />
     <MESSAGE value="requirements2" />
-    <option name="LAST_COMMIT_MESSAGE" value="requirements2" />
+    <MESSAGE value="requirements3" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Dilafruz$Dilafruz.coverage" NAME="Dilafruz Coverage Results" MODIFIED="1764364423377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Dilafruz$Dilafruz.coverage" NAME="Dilafruz Coverage Results" MODIFIED="1764413017981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

@@ -146,7 +146,7 @@ LANDING_TEMPLATE = """
         .hero-photo {
             position:absolute;
             inset:-6px -6px 0 -6px;
-            background:url('/static/person.png') center bottom/cover no-repeat;
+            background:url('/static/person.PNG') center bottom/cover no-repeat;
         }
 
         form { margin-top:12px; text-align:left; }
